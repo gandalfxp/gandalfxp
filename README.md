@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello, world! 🌍
 
-<!--
-**theohoppe3/theohoppe3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 I'm **Theo**!
+🧑‍🎓 I'm a student from **Germany**
+🧠 I'm interested in **developing, testing and administrating** all kinds of applications
+🧑‍💻 As of 2023, I have roughly 1.5 years of working experience as a software engineer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun facts:
+  - 🎵 I play the cello and piano
+  - 💬 I speak Arabic, English, French and German (mainly English and German)
+  - 🥗 I like to cook with my friends and family
+  - 🏊‍♂️ I do lots of sports
