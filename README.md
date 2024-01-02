@@ -3,7 +3,7 @@
 👋 I'm **Theo**!  
 🧑‍🎓 I'm a student from **Germany**  
 🧠 I'm interested in **developing, testing and administrating** all kinds of applications  
-🧑‍💻 As of 2023, I have roughly **1.5 years of working experience** as a **software engineer/developer**  
+🧑‍💻 As of 2024, I have roughly **1.5 years of working experience** as a **software engineer/developer**  
 
 ⚡ Fun facts:
   - 🎵 I play the cello and piano
